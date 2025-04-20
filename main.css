@@ -59,6 +59,10 @@ main {
   min-height: 100vh;
   display: grid;
   place-items: center;
+
+  background-image: url('assets/images/pattern-curve.svg');
+  background-position: bottom left;
+  background-repeat: no-repeat;
 }
 
 .main-content-wrapper {
