@@ -270,7 +270,6 @@ main {
     bottom: 3rem;
     right: 35%;
     z-index: 5;
-    transform: translateX(50%);
     translate: 0 50%;
   }
 }
